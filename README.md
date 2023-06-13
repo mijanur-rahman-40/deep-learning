@@ -5,5 +5,5 @@ $ source venv/bin/activate
 $ pip install your_library
 ```
 
-##### SHow all required installed libraray
+##### Show all required installed libraries
 ```$ pip3 freeze > requirements.txt```
