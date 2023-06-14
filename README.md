@@ -7,3 +7,6 @@ $ pip install your_library
 
 ##### Show all required installed libraries
 ```$ pip3 freeze > requirements.txt```
+
+**Install packages**
+$ pip install -r requirements.txt
