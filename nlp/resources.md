@@ -26,3 +26,7 @@ Search With This text : online examination system literature review
 3. NLTK
 4. Scikit learn
 5. Hugging Face 
+
+#### BERT TUTORIALS
+1. https://datasciencetoday.net/index.php/en-us/nlp/211-paper-dissected-bert-pre-training-of-deep-bidirectional-transformers-for-language-understanding-explained
+2. http://jalammar.github.io/illustrated-bert/
