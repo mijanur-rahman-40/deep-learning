@@ -24,3 +24,5 @@ BERT, which stands for Bidirectional Encoder Representations from Transformers, 
 ```
 1. https://youtu.be/Y2wrtZPrct8 -> NLP with BERT | Text Summarization using PyTorch
 2. https://youtu.be/7kLi8u2dJz0?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO
+3. https://colab.research.google.com/github/google-research/bert/blob/master/predicting_movie_reviews_with_bert_on_tf_hub.ipynb
+4. https://youtu.be/8N-nM3QW7O0 -> Text Classification | Sentiment Analysis with BERT using huggingface, PyTorch and Python Tutorial
