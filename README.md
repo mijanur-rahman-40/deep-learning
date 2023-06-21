@@ -10,3 +10,9 @@ $ pip install your_library
 
 **Install packages**
 $ pip install -r requirements.txt
+
+**Import File in Google Colab**
+
+```from google.colab import files
+uploaded = files.upload()
+```
